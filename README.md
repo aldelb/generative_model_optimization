@@ -1,8 +1,8 @@
-# Nerfies
+# Automatic objective metric for the optimization of nonverbal behavior generative models
 
-This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
+This is the repository that contains source code for the [website](https://nerfies.github.io).
 
-If you find Nerfies useful for your work please cite:
+This website was created using the source code provided in the study:
 ```
 @article{park2021nerfies
   author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
