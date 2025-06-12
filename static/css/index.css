@@ -155,3 +155,13 @@ body {
 #interpolation-image-wrapper img {
   border-radius: 5px;
 }
+
+.colored-dot {
+    display: inline-block;
+    width: 0.6em;
+    height: 0.6em;
+    margin-right: 0.5em;
+    border-radius: 50%;
+    background-color: #ff3860; /* Rouge Bulma */
+    vertical-align: middle;
+  }
